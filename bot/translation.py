@@ -5,12 +5,14 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
-
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+<i>ഈ ബോട്ട് നിർമിച്ചിരിക്കുന്നത് തികച്ചും MOVIE MARKET ഗ്രൂപ്പിലേക്ക് വേണ്ടിട്ടാണ്.
+എന്നെ നിങ്ങൾക്ക് വേറെ ഒരിടത്തും ഉപയോഗിക്കാൻ ആകില്ല..
+എന്തായാലും വന്നതല്ലേ ഗ്രൂപ്പിലും ചാനലിലും JOIN ചെയ്തോ FOR SUPPORT....😉
+ 🔥🔥
 
 For More Details Click Help Button Below..
-@CrazyBotsz
+MY CREATOR😁👇
+@Dashamoolamdamu_123
 </i>"""    
     
     HELP_TEXT = """
@@ -55,4 +57,6 @@ For More Details Click Help Button Below..
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
 <b>➥ Source Code</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">Click Me</a></i>
+
+Add🔥
 """
